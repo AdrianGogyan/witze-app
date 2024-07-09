@@ -87,6 +87,10 @@ body{
         justify-content: center;
         gap: 0.5rem;
 
+        &--disabled{
+            display: none;
+        }
+
         &-icon{
             width: 1.5rem;
         }
